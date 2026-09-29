@@ -1,0 +1,10 @@
+{
+  "appId": "com.onlyus.srishti",
+  "appName": "Only us",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://ais-pre-aiizp67mjej3ozke5a4lih-349022476112.asia-southeast1.run.app",
+    "cleartext": true
+  }
+}
