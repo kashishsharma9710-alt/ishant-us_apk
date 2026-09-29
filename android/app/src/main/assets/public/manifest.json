@@ -1,0 +1,18 @@
+{
+  "name": "Only us",
+  "short_name": "Only us",
+  "description": "Private personal AI companion for Srishti featuring Ishant AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07130e",
+  "theme_color": "#0e291c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/tulip-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
